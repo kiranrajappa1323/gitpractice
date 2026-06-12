@@ -6,6 +6,7 @@ public class Contacttest {
 @Test
 public void sample1() {
 	System.out.println("hiiiiiiiiiiiiiiiii");
+	System.out.println("hellooooo");
 }
 
 }
