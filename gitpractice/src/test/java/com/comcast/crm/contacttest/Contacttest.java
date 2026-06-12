@@ -12,6 +12,6 @@ public void sample1() {
 @Test
 public void sample5()
 {
-	System.out.println("changes");
+	System.out.println("changes....");
 }
 }
