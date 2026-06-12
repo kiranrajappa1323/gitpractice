@@ -1,0 +1,11 @@
+package com.comcast.crm.contacttest;
+
+import org.testng.annotations.Test;
+
+public class Contacttest {
+@Test
+public void sample1() {
+	System.out.println("hiiiiiiiiiiiiiiiii");
+}
+
+}
